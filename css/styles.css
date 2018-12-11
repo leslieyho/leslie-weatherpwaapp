@@ -1,0 +1,9 @@
+/* Remove bullet on first list item */
+ul li:first-child  {
+    list-style: none;
+}
+
+/* Carousel */
+.carousel-item {
+    background: lightgray;
+}
