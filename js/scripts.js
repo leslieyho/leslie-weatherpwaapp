@@ -3,7 +3,7 @@ var carousels = bulmaCarousel.attach(); // carousels now contains an array of al
 
 // Primary
 $.simpleWeather({
-    location: 92728,
+    location: 90220,
     success: function(weather) {
        
       $('#primary .image img').attr( 'src', weather.image  );

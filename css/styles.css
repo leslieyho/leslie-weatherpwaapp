@@ -5,11 +5,12 @@ ul li:first-child  {
 
 /* Carousel */
 .carousel-item {
-    background: gold;
+    background:black;
 }
 
 li {
     font-size: 3rem;
     font-family: 'RapScript', serif;
-    font-color: blue;
+    color: gold;
+    line-height: 2;
 }
