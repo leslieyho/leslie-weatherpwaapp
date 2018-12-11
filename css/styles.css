@@ -5,5 +5,11 @@ ul li:first-child  {
 
 /* Carousel */
 .carousel-item {
-    background: lightgray;
+    background: gold;
+}
+
+li {
+    font-size: 3rem;
+    font-family: 'RapScript', serif;
+    font-color: blue;
 }
