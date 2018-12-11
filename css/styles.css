@@ -8,13 +8,15 @@ ul li:first-child  {
     background:black;
 }
 
-li {
+li{
     font-size: 3rem;
-    font-family: 'RapScript', serif;
+    font-family: 'Copperplate', sans-serif;
     color: gold;
     line-height: 2;
 }
 
 h1 {
-    font-family: 'Graffiti', serif;
+    font-size: 5rem;
+    font-family: 'Copperplate', sans-serif;
+    color: red;
 }
