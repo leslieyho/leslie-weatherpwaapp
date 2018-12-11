@@ -18,7 +18,7 @@ $.simpleWeather({
 
 //  Secondary
 $.simpleWeather({
-  location: 'Kona, Hi',
+  location: 'Long Island, NY',
   success: function(weather) {
      
     $('#secondary .image img').attr( 'src', weather.image  );
